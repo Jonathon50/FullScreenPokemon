@@ -9,7 +9,7 @@
 HTML5 remake of the original Pokemon, expanded for modern browsers.
 
 <!-- /Top -->
-
+ 
 ## Usage
 
 The built `lib/index.html` uses [UserWrappr](https://github.com/FullScreenShenanigans/UserWrappr) to fill the available window size with a game screen, option menus, and piped input events.
